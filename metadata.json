@@ -1,0 +1,6 @@
+{
+  "name": "UniReport",
+  "description": "Create professional event reports in under 5 minutes with AI summary polish, bulk attendee import, and instant PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

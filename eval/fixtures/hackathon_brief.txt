@@ -1,0 +1,17 @@
+HackAI 2026: National Student Innovation Hackathon
+Date: November 2-3, 2026
+Location: University Innovation Center, Hall B
+Department: School of Informatics and Computing
+
+Tracks & Problem Statements:
+1. HealthTech: Automated Medical Imaging Triage
+2. FinTech: Decentralized Micro-Insurance Contracts
+3. ClimateAI: Urban Heat Island Mitigation via Sensor Telemetry
+
+Awards & Leaderboard:
+- 1st Place ($5,000): Team NeuroPulse for "Realtime EEG Seizure Predictor"
+- 2nd Place ($2,500): Team CarbonTrace for "Campus Emissions Audit Bot"
+- Best Innovation ($1,000): Team QuantFlow for "Low-Power Edge Tensor Processor"
+
+Sponsors: Google Cloud (Platinum, $10,000), AWS for Education (Gold, $5,000), GitHub Campus (Partner).
+Turnout: 340 hackers across 85 teams. 12 finalist teams selected for live jury demos. Devpost archive: https://devpost.com/hackai-2026.

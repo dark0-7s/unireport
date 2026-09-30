@@ -1,0 +1,21 @@
+Board of Studies & Curriculum Revision Assembly - Fall 2026
+Date: October 8, 2026
+Presided by: Dean of Academic Affairs Prof. Eleanor Ward
+Meeting Type: Department Board & Curriculum Committee
+Department: Electrical & Computer Engineering
+
+Agenda Items Discussed:
+1. Review of 2026-2027 Outcome-Based Education (OBE) course outcome matrix.
+2. Introduction of Applied Generative AI elective in semester 6.
+3. Laboratory workstation GPU infrastructure budget allocation ($45,000).
+
+Ratified Resolutions:
+- Resolution 2026-BOS-01: Approved new 4-credit course 'ECE-488 Deep Learning Systems' with unanimous vote.
+- Resolution 2026-BOS-02: Approved capital expenditure for 16 NVIDIA RTX workstation units for the robotics lab.
+
+Action Items Matrix:
+1. Task: Finalize syllabus rubric for ECE-488. Assigned to: Dr. Alan Turing. Deadline: Nov 15, 2026. Status: In Progress.
+2. Task: Submit vendor purchase order for GPU hardware. Assigned to: Lab Coordinator Priya Nair. Deadline: Oct 30, 2026. Status: Pending.
+3. Task: Update student handbook with revised credit requirements. Assigned to: Registrar Office. Deadline: Dec 1, 2026. Status: Pending.
+
+Next Convocation Date: January 15, 2027.

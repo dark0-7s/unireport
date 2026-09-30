@@ -1,0 +1,21 @@
+Hands-on Workshop: Production Kubernetes & Microservice Observability
+Date: September 18, 2026
+Venue: Computing Lab 3, Engineering Complex
+Instructor: Senior SRE Vikram Joshi (vikram@cloudops.io, Cloud Native Labs)
+
+Prerequisites & Level: Intermediate to Advanced.
+Software Toolchain: Docker, Kubernetes v1.30, Prometheus, Grafana, OpenTelemetry, Helm.
+
+Lab Exercises:
+1. Containerizing a multi-tier Express & Postgres application.
+2. Writing Helm charts with horizontal pod autoscaling.
+3. Instrumenting distributed trace spans using OpenTelemetry.
+
+Pedagogical Assessment & Skill Gains:
+- Pre-workshop baseline assessment average: 38%
+- Post-workshop hands-on project assessment average: 84%
+- Net Skill Gain: 121.05%
+- Deliverable: Deployed high-availability microservice cluster on local Minikube.
+
+Attendance: 48 registered attendees (42 graduate students, 6 faculty observers).
+Overall workshop satisfaction score: 4.9 / 5.0.

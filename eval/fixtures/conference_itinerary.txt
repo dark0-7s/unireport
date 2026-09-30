@@ -1,0 +1,15 @@
+International Symposium on Autonomous Computing and Cloud Systems (ISACCS 2026)
+Date: October 14, 2026
+Venue: Margaret Morrison Hall Auditorium, Carnegie Mellon University
+Host Department: Department of Computer Science & Software Engineering
+Organized by: Prof. Helena Vance (helena.vance@cmu.edu)
+
+Schedule & Proceedings:
+09:00 AM - Opening Keynote: "Scaling Resilient Microarchitectures" by Dr. Arthur Pendelton (Chief Architect at DeepScale AI).
+11:30 AM - Invited Session: "Course Outcome Alignment in Distributed Systems" by Prof. Samantha Reed (Stanford University). Mapped to CO-1 (Distributed Principles) and PO-4 (System Analysis), Bloom's Taxonomy Level L4 (Analyze).
+02:00 PM - Panel Discussion on Green Computing with 4 academic delegates.
+04:30 PM - Closing Remarks and HOD Sign-off by Department Chair Dr. Marcus Brody.
+
+Attendance Records:
+Total Registered: 280 participants (190 students, 65 faculty, 25 industry delegates).
+Average Session Rating: 4.85 / 5.0.
